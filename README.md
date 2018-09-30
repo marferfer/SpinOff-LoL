@@ -5,8 +5,10 @@ Aquí podrás descubrir otra forma de jugar a este maravilloso juego, saliendo d
 
 ## Tus campeones, en tu mano.
 
+Como ya hemos comentado, podrás ver como Blitzcrank agarra al carry enemigo y lo machacas contra la torre. O como Zed utiliza la sombra y desaparece entre las tinieblas para destruir al enemigo. **¡Y TODO ESTO EN REALIDAD AUMENTADA!**
 
-//Agregar descripción
+Nunca los verás tan cerca y tan real.
+Incluso, tal vez, puedas hacerte amigo de alguno de ellos...
 
 ## Interfaz
 
@@ -37,4 +39,9 @@ Contamos con un equipo de **4 desarrolladores** experimentados tanto en el mundo
 ## Nuestras Plataformas
 
 Puedes descubrir todo el contenido en [GitHub League of Cards](https://github.com/marferfer/SpinOff-LoL/)
+
+### Referencias
+
+Varios de los modelos recogidos para la aplicacion, han sido recogidos de la pagina: [Boards League of Legends](https://boards.na.leagueoflegends.com/en/c/story-art/nMjMzxOK-champion-3d-models-d)
+
 
