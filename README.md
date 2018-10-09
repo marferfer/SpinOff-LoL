@@ -31,7 +31,7 @@ Contamos con un equipo de **4 desarrolladores** experimentados tanto en el mundo
 
 |                |EQUIPO                          |ROLES                        |
 |----------------|-------------------------------|-----------------------------|
-|Javier Barbas|Foto      | <img src="imgs/fotoJavier.png">   |  Diseñador de Interfaces          |
+|Javier Barbas           | <img src="imgs/fotoJavier.png">   |  Diseñador de Interfaces          |
 |Luis Betancourt         | <img src="imgs/fotoLuis.png">   |     Documentador de Requisitos      |
 |Mario Fernández         | <img src="imgs/fotoMario.png">   |      Investigador y programador Nuevas Tecnologías, Desarrollador Apps y Web        |
 |Francisco José Labanda  | <img src="imgs/fotoFran.png">|    Diseñador de Interfaces, Documentador de Requisitos            |
